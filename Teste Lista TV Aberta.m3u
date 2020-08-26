@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 ,TV CULTURA
+https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist_b2097152.m3u8
+
+#EXTINF:-1 ,TV SANTA CECILIA
+http://flash1.crossdigital.com.br/2063/2063/chunklist_w571092187.m3u8
+
+#EXTINF:-1 ,TV DW - LATINO AMERICA
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 ,TV CAMARA
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 ,TV5 MONDE
+https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/v3plusinfo247hls_1_1.m3u8
