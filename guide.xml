@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TV CULTURA">
+    <display-name lang="pt">TV CULTURA]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV SANTA CECILIA">
+    <display-name lang="pt">TV SANTA CECILIA</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV DW - LATINO AMERICA">
+    <display-name lang="pt">TV DW - LATINO AMERICA</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV CAMARA">
+    <display-name lang="pt">TV CAMARA</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV5 MONDE">
+    <display-name lang="pt">TV5 MONDE</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20200826170000 -0300" stop="20200826173000 -0300" channel="TV CULTURA">
+    <title lang="pt">World of Winx</title>
+  </programme>
+  <programme start="20200826173000 -0300" stop="20200826180000 -0300" channel="TV CULTURA">
+    <title lang="pt">Valentins</title>
+  </programme>
+  <programme start="20200826180000 -0300" stop="20200826184500 -0300" channel="TV CULTURA">
+    <title lang="pt">Club 57</title>
+  </programme>
+  <programme start="20200826184500 -0300" stop="20200826190000 -0300" channel="TV CULTURA">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20200826190000 -0300" stop="20200826191000 -0300" channel="TV CULTURA">
+    <title lang="pt">Shaun, o Carneiro</title>
+  </programme>
+  <programme start="20200826191000 -0300" stop="20200826194000 -0300" channel="TV CULTURA">
+    <title lang="pt">Papo de Mãe</title>
+  </programme>
+  <programme start="20200826194000 -0300" stop="20200826194500 -0300" channel="TV CULTURA">
+    <title lang="pt">Metrópolis</title>
+  </programme>
+  <programme start="20200826194500 -0300" stop="20200826201500 -0300" channel="TV CULTURA">
+    <title lang="pt">A Feiticeira</title>
+  </programme>
+  <programme start="20200826201500 -0300" stop="20200826204500 -0300" channel="TV CULTURA">
+    <title lang="pt">As Aventuras do Richard no Paraná</title>
+  </programme>
+  <programme start="20200826204500 -0300" stop="20200826211500 -0300" channel="TV CULTURA">
+    <title lang="pt">Revista do Esporte</title>
+  </programme>
+  <programme start="20200826211500 -0300" stop="20200826221500 -0300" channel="TV CULTURA">
+    <title lang="pt">Jornal da Cultura</title>
+  </programme>
+  <programme start="20200826221500 -0300" stop="20200826224500 -0300" channel="TV CULTURA">
+    <title lang="pt">Opinião</title>
+  </programme>
+  <programme start="20200826224500 -0300" stop="20200826234500 -0300" channel="TV CULTURA">
+    <title lang="pt">Paulo César Pinheiro - Sempre Poeta</title>
+  </programme>
+  <programme start="20200826234500 -0300" stop="20200827004500 -0300" channel="TV CULTURA">
+    <title lang="pt">Manos e Minas</title>
+  </programme>
+  <programme start="20200826170000 -0300" stop="20200826173000 -0300" channel="TV SANTA CECILIA">
+    <title lang="pt">Momento de Brincar</title>
+  </programme>
+  <programme start="20200826173000 -0300" stop="20200826183000 -0300" channel="TV SANTA CECILIA">
+    <title lang="pt">Pedro Alcântara</title>
+  </programme>
+  <programme start="20200826183000 -0300" stop="20200826190000 -0300" channel="TV SANTA CECILIA">
+    <title lang="pt">Vitrine Design Gallery</title>
+  </programme>
+  <programme start="20200826190000 -0300" stop="20200826193000 -0300" channel="TV SANTA CECILIA">
+    <title lang="pt">Hora Geral</title>
+  </programme>
+  <programme start="20200826193000 -0300" stop="20200826200000 -0300" channel="TV SANTA CECILIA">
+    <title lang="pt">Caderno Regional</title>
+  </programme>
+  <programme start="20200826200000 -0300" stop="20200826210000 -0300" channel="TV SANTA CECILIA">
+    <title lang="pt">Ponto de Vista</title>
+  </programme>
+  <programme start="20200826210000 -0300" stop="20200826213000 -0300" channel="TV SANTA CECILIA">
+    <title lang="pt">Tudo de Bom</title>
+  </programme>
+  <programme start="20200826213000 -0300" stop="20200826220000 -0300" channel="TV SANTA CECILIA">
+    <title lang="pt">Programa JB</title>
+  </programme>
+  <programme start="20200826220000 -0300" stop="20200826223000 -0300" channel="TV SANTA CECILIA">
+    <title lang="pt">Rumos e Desafios Eleições 2020</title>
+  </programme>
+  <programme start="20200826223000 -0300" stop="20200826225500 -0300" channel="TV SANTA CECILIA">
+    <title lang="pt">Caderno Regional</title>
+  </programme>
+  <programme start="20200826225500 -0300" stop="20200826230000 -0300" channel="TV SANTA CECILIA">
+    <title lang="pt">Visão Médica</title>
+  </programme>
+  <programme start="20200826230000 -0300" stop="20200827003000 -0300" channel="TV SANTA CECILIA">
+    <title lang="pt">Esporte por Esporte</title>
+  </programme>
+  <programme start="20200826170000 -0300" stop="20200826173000 -0300" channel="TV DW - LATINO AMERICA">
+    <title lang="pt">DokFilm</title>
+  </programme>
+  <programme start="20200826173000 -0300" stop="20200826183000 -0300" channel="TV DW - LATINO AMERICA">
+    <title lang="pt">NDR Comedy Contest - Kabarett</title>
+  </programme>
+  <programme start="20200826183000 -0300" stop="20200826190000 -0300" channel="TV DW - LATINO AMERICA">
+    <title lang="pt">Fokus Europa</title>
+  </programme>
+  <programme start="20200826190000 -0300" stop="20200826200000 -0300" channel="TV DW - LATINO AMERICA">
+    <title lang="pt">Der Tag</title>
+  </programme>
+  <programme start="20200826200000 -0300" stop="20200826204500 -0300" channel="TV DW - LATINO AMERICA">
+    <title lang="pt">Quarks</title>
+  </programme>
+  <programme start="20200826204500 -0300" stop="20200826210000 -0300" channel="TV DW - LATINO AMERICA">
+    <title lang="pt">Frag den Lesch</title>
+  </programme>
+  <programme start="20200826210000 -0300" stop="20200826213000 -0300" channel="TV DW - LATINO AMERICA">
+    <title lang="pt">Kulturzeit - Feuilleton im Fernsehen</title>
+  </programme>
+  <programme start="20200826213000 -0300" stop="20200826220000 -0300" channel="TV DW - LATINO AMERICA">
+    <title lang="pt">REV</title>
+  </programme>
+  <programme start="20200826220000 -0300" stop="20200826230000 -0300" channel="TV DW - LATINO AMERICA">
+    <title lang="pt">Der Tag</title>
+  </programme>
+  <programme start="20200826230000 -0300" stop="20200826234500 -0300" channel="TV DW - LATINO AMERICA">
+    <title lang="pt">DokFilm</title>
+  </programme>
+  <programme start="20200826234500 -0300" stop="20200827001500 -0300" channel="TV DW - LATINO AMERICA">
+    <title lang="pt">Fokus Europa</title>
+  </programme>
+  <programme start="20200826135500 -0300" stop="20200826200000 -0300" channel="TV CAMARA">
+    <title lang="pt">Reapresentação de Comissões</title>
+  </programme>
+  <programme start="20200826200000 -0300" stop="20200826203000 -0300" channel="TV CAMARA">
+    <title lang="pt">Palavra Aberta</title>
+  </programme>
+  <programme start="20200826203000 -0300" stop="20200826210000 -0300" channel="TV CAMARA">
+    <title lang="pt">Câmara Debate</title>
+  </programme>
+  <programme start="20200826210000 -0300" stop="20200826213000 -0300" channel="TV CAMARA">
+    <title lang="pt">Câmara Informa</title>
+  </programme>
+  <programme start="20200826213000 -0300" stop="20200826223000 -0300" channel="TV CAMARA">
+    <title lang="pt">Palavra Aberta</title>
+  </programme>
+  <programme start="20200826223000 -0300" stop="20200826230000 -0300" channel="TV CAMARA">
+    <title lang="pt">Representativas</title>
+  </programme>
+  <programme start="20200826230000 -0300" stop="20200826233000 -0300" channel="TV CAMARA">
+    <title lang="pt">Câmara Debate</title>
+  </programme>
+  <programme start="20200826233000 -0300" stop="20200827000000 -0300" channel="TV CAMARA">
+    <title lang="pt">Interesse Público</title>
+  </programme>
+  <programme start="20200826170000 -0300" stop="20200826173000 -0300" channel="TV5 MONDE">
+    <title lang="pt">Le Journal De La RTS</title>
+  </programme>
+  <programme start="20200826173000 -0300" stop="20200826180000 -0300" channel="TV5 MONDE">
+    <title lang="pt">Questions Pour Un Champion</title>
+  </programme>
+  <programme start="20200826180000 -0300" stop="20200826183100 -0300" channel="TV5 MONDE">
+    <title lang="pt">TV5Monde Le Journal Afrique</title>
+  </programme>
+  <programme start="20200826183100 -0300" stop="20200826190000 -0300" channel="TV5 MONDE">
+    <title lang="pt">Épicerie Fine - Terroirs Gastronômicos</title>
+  </programme>
+  <programme start="20200826190000 -0300" stop="20200826200000 -0300" channel="TV5 MONDE">
+    <title lang="pt">Passe-moi Les Jumelles</title>
+  </programme>
+  <programme start="20200826200000 -0300" stop="20200826203000 -0300" channel="TV5 MONDE">
+    <title lang="pt">Le Journal de France 2</title>
+  </programme>
+  <programme start="20200826203000 -0300" stop="20200826212500 -0300" channel="TV5 MONDE">
+    <title lang="pt">Opj Pacifique Sud</title>
+  </programme>
+  <programme start="20200826212500 -0300" stop="20200826223000 -0300" channel="TV5 MONDE">
+    <title lang="pt">Opj Pacifique Sud</title>
+  </programme>
+  <programme start="20200826223000 -0300" stop="20200826230100 -0300" channel="TV5 MONDE">
+    <title lang="pt">Le 23h</title>
+  </programme>
+  <programme start="20200826230100 -0300" stop="20200826234900 -0300" channel="TV5 MONDE">
+    <title lang="pt">Les Hommes de L'ombre</title>
+  </programme>
+  <programme start="20200826234900 -0300" stop="20200827003800 -0300" channel="TV5 MONDE">
+    <title lang="pt">Les Hommes de L'ombre</title>
+  </programme>
+</tv>
